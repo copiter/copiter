@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flag-square&logo=JavaScript&logoColor=black"/>
 <div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=perago&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perago&show_icons=true&theme=radical)
 </div>
