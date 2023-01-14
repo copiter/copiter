@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **copiter/copiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=perago&show_icons=true&theme=radical)
+<div align=center>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flag-square&logo=JavaScript&logoColor=yellow"/>
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=perago&show_icons=true&theme=radical)
+</div>
