@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img src="https://img.shields.io/badge/JavaScript-000000?style=flag-square&logo=JavaScript&logoColor=F7DF1E" /> -->
-<div align="center">
+<div align=center>
   ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=perago&show_icons=true&theme=radical)
 </div>
